@@ -31,7 +31,6 @@ los datos. En el caso de la funcion anterior es exactamente la
 misma en los dos formatos y no va a generar problemas en senecode.
 '''
 
-import math as matematicas
 
 'RETOS NIVEL 1'
 
