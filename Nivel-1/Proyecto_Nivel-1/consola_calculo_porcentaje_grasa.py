@@ -16,4 +16,4 @@ def iniciar_calculadora_porcentaje_grasa()->None:
     ejec_calcular_porgras()
 
 #Bloque_Principal
-iniciar_calculadora_porcentaje_grasa() 
+iniciar_calculadora_porcentaje_grasa()
