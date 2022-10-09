@@ -1,7 +1,6 @@
 '''
 Aquí se encuentran la solucion de los retos de IP
 SENECODE - AÑO 2020-1
-Desarrollados por Cristian Camilo Cortes Moreno
 
 --------------------------------------------------
 
